@@ -1,4 +1,3 @@
-# My_Pyhton_Beginner_Path
 # 🐍 My Python Beginner Path
 
 Welcome to my Python learning journey 🚀
